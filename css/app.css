@@ -5,6 +5,7 @@
 body {
   background-color: black;
   color:white;
+  background-image: url("/image/wall.jpg");
 }
 
 h2 {
